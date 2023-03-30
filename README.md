@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/GabrielBdSilva">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=GabrielBdSilva&show_icons=true&theme=transparent&include_all_comits=true&count_private=true&"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBdSilva&layout=compact&langs_count=07&theme=transparent"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBdSilva&layout=compact&langs_count=07&theme=transparent"/>
  
 ##
   
