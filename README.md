@@ -33,6 +33,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordm
 </div>
 
 <div align="center"><br>
-  <a href="https://www.linkedin.com/in/gabriel-silva-576b2a194" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabrielbdsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:gabriel.benjamim3200@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">     </a>
 </div>
